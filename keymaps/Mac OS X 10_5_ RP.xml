@@ -1,0 +1,19 @@
+<keymap version="1" name="Mac OS X 10.5+ RP" parent="Mac OS X 10.5+">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl meta f4" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift ctrl meta f3" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl meta close_bracket" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta right" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta left" />
+  </action>
+</keymap>
