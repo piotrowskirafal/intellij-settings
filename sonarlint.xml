@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.dev.retloc" />
+          <option name="name" value="retarus-sonar" />
+          <option name="login" value="rafalp" />
+          <password>df8edff8dfcbdfcedfc7dfc5dfd8df9fdf9edf9bdf98df8b</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
