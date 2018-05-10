@@ -1,0 +1,17 @@
+<scheme name="MyDarcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-05-10T10:21:40</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.3.0.0</property>
+    <property name="modified">2018-05-10T10:25:10</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="2cff24" />
+        <option name="ERROR_STRIPE_COLOR" value="36b13" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
