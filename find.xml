@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/integrationTest/java/de/retarus/portal/base/database/cbase/repository/CBaseDataUserAttributeRepositoryTestIT.java [eas-api]'" />
-    <option name="defaultScopeName" value="File '.../src/integrationTest/java/de/retarus/portal/base/database/cbase/repository/CBaseDataUserAttributeRepositoryTestIT.java [eas-api]'" />
+    <option name="customScope" value="File '.../src/main/java/de/retarus/portal/configuration/cbase/utils/EntityConverter.java [eas-api]'" />
+    <option name="defaultScopeName" value="File '.../src/main/java/de/retarus/portal/configuration/cbase/utils/EntityConverter.java [eas-api]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../src/integrationTest/java/de/retarus/portal/base/database/cbase/repository/CBaseDataUserAttributeRepositoryTestIT.java [eas-api]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/main/java/de/retarus/portal/configuration/cbase/utils/EntityConverter.java [eas-api]'" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.html</mask>
