@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*Controller*" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.htm</mask>
@@ -16,16 +16,6 @@
       <mask>*s*</mask>
       <mask>*spe*</mask>
       <mask>*spec*</mask>
-      <mask>*C*</mask>
-      <mask>*Co*</mask>
-      <mask>*Con*</mask>
-      <mask>*Cont*</mask>
-      <mask>*Contr*</mask>
-      <mask>*Contro*</mask>
-      <mask>*Control*</mask>
-      <mask>*Controlle*</mask>
-      <mask>*Controller*</mask>
-      <mask>**</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
@@ -35,6 +25,16 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>**</mask>
+      <mask>*C*</mask>
+      <mask>*Co*</mask>
+      <mask>*Con*</mask>
+      <mask>*Cont*</mask>
+      <mask>*Contr*</mask>
+      <mask>*Contro*</mask>
+      <mask>*Control*</mask>
+      <mask>*Controlle*</mask>
+      <mask>*Controller*</mask>
     </recentFileMasks>
   </component>
 </application>
