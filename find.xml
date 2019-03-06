@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*html" />
+    <option name="FILE_MASK" value="*route*" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*s*</mask>
-      <mask>*spe*</mask>
       <mask>*spec*</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
@@ -30,11 +24,17 @@
       <mask>*Controlle*</mask>
       <mask>*Controller*</mask>
       <mask>**</mask>
-      <mask>*</mask>
-      <mask>*h</mask>
-      <mask>*ht</mask>
-      <mask>*htm</mask>
       <mask>*html</mask>
+      <mask>*htm</mask>
+      <mask>*ht</mask>
+      <mask>*h</mask>
+      <mask>*</mask>
+      <mask>*r</mask>
+      <mask>*ro</mask>
+      <mask>*rou</mask>
+      <mask>*rout</mask>
+      <mask>*route</mask>
+      <mask>*route*</mask>
     </recentFileMasks>
   </component>
 </application>
